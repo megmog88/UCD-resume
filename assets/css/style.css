@@ -305,6 +305,7 @@ display: inline-block;
 
 .history-items {
     margin-bottom: 30px;
+<<<<<<< HEAD
 }
 
 .bg-color-contact {
@@ -338,3 +339,6 @@ button[type="submit"] {
     margin: 0 auto;
     max-width: 50%;}
 }
+=======
+}
+>>>>>>> 10bfacf10f31410d46536c7002d7e2ffc432b634
